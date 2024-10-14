@@ -1,0 +1,14 @@
+D:\programming\bootcamp\SistemaPOO\bin\Debug\net8.0\SistemaPOO.exe
+D:\programming\bootcamp\SistemaPOO\bin\Debug\net8.0\SistemaPOO.deps.json
+D:\programming\bootcamp\SistemaPOO\bin\Debug\net8.0\SistemaPOO.runtimeconfig.json
+D:\programming\bootcamp\SistemaPOO\bin\Debug\net8.0\SistemaPOO.dll
+D:\programming\bootcamp\SistemaPOO\bin\Debug\net8.0\SistemaPOO.pdb
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.AssemblyInfoInputs.cache
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.AssemblyInfo.cs
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.csproj.CoreCompileInputs.cache
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.dll
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\refint\SistemaPOO.dll
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.pdb
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\SistemaPOO.genruntimeconfig.cache
+D:\programming\bootcamp\SistemaPOO\obj\Debug\net8.0\ref\SistemaPOO.dll
